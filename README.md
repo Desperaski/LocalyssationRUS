@@ -5,7 +5,7 @@
 
 Перевод выполнен не на 100%, так как Localyssation не все строки, имеющиеся в игре отдаёт.
 
-
+Шрифт заменён на Unifont, FontBundle с которым как раз любезно предоставлен разработчиком последнего форка https://github.com/numanicloud/Localyssation/blob/main/unifont.fontbundle
 
 Установка:
 1. Скачиваем BepInEx https://github.com/BepInEx/BepInEx под свою систему, распаковываем его в корень игры
