@@ -1,0 +1,25 @@
+{
+  "code": "ru-RU",
+  "name": "Русский (RU)",
+  "autoShrinkOverflowingText": true,
+  "chatFont": {
+    "fontName": "",
+    "fontScale": 0.1
+  },
+  "fontReplacement": {
+    "Roskell": {
+      "fontName": "",
+      "fontScale": 0.1
+    },
+    "terminal-grotesque": {
+      "fontName": "",
+      "fontScale": 0.1
+    }
+  },
+  "componentSpecifiedFontReplacement": {
+    "__some___example/_gameobject/_path": {
+      "fontName": "",
+      "fontScale": 0.1
+    }
+  }
+}
