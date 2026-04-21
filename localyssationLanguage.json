@@ -1,25 +1,33 @@
 {
   "code": "ru-RU",
   "name": "Русский (RU)",
-  "autoShrinkOverflowingText": true,
+  "autoShrinkOverflowingText": false,
   "chatFont": {
-    "fontName": "",
-    "fontScale": 0.1
+    "fontName": "unifont",
+    "fontScale": 1.0
   },
   "fontReplacement": {
     "Roskell": {
-      "fontName": "",
-      "fontScale": 0.1
+      "fontName": "unifont",
+      "fontScale": 1.0
     },
     "terminal-grotesque": {
-      "fontName": "",
-      "fontScale": 0.1
+      "fontName": "unifont",
+      "fontScale": 1.0
+    },
+    "OLDSH___": {
+      "fontName": "unifont",
+      "fontScale": 1.0
+    },
+    "LiberationSans": {
+      "fontName": "unifont",
+      "fontScale": 1.0
     }
   },
   "componentSpecifiedFontReplacement": {
     "__some___example/_gameobject/_path": {
-      "fontName": "",
-      "fontScale": 0.1
+      "fontName": "unifont",
+      "fontScale": 1.0
     }
   }
 }
