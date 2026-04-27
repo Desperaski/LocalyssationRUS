@@ -1005,7 +1005,7 @@
 "FORMAT_EQUIP_STATS_WEAPON_TRASMUTE_TYPE": "Урон Трансмутации: {0}"
 "FORMAT_EQUIP_TOOLTIP_TYPE_WEAPON": "{0} -"
 "FORMAT_EQUIP_WEAPON_CONDITION": "\n<color=lime>- <color=yellow>{0}%</color> шанс применить {1}.</color>"
-"FORMAT_ITEM_RARITY": "                     [{0}]"
+"FORMAT_ITEM_RARITY": "[{0}]"
 "FORMAT_ITEM_TOOLTIP_VENDOR_VALUE_COUNTER": "{0}"
 "FORMAT_ITEM_TOOLTIP_VENDOR_VALUE_COUNTER_MULTIPLE": "<color=grey>(x{0} каждый)</color> {1}"
 "FORMAT_QUEST_MENU_CELL_FINISHED_QUEST_COUNTER": "Завершено Квестов: {0}"
